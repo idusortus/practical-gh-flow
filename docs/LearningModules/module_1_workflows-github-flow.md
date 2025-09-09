@@ -94,6 +94,9 @@ Let's implement everything we just learned!
    ```
 
 ### Step 2: Create Basic .NET Web API (8 minutes)
+# TODO
+> git reset --soft HEAD~1 vs --mixed vs -- hard vs plain old git reset
+> dotnet new gitignore
 
 ```bash
 # Create new Web API project
